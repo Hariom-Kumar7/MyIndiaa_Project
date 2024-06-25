@@ -108,7 +108,7 @@ A summary of the reported bugs is available in the [Test cases and test scenario
 Detailed documentation of the testing strategy and processes is provided, along with test reports summarizing the results of automated, manual, performance, and security tests.
 
 ### Documents
-         Documerts are available in the README.md filr.
+         Documerts are available in the README.md file.
 - [Test Plan](./manual-tests/Test_Plan.xlsx)
 - [Automated Test Scripts](./automated-tests)
 - [Performance Test Plan](./performance-tests)
