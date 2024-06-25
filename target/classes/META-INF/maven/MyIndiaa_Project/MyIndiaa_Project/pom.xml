@@ -44,7 +44,7 @@
          <configuration>
      <includes>
 <!-- the java file name is added here in the surefire configurartion -->
-     <exclude>**/*LoginScenarioAmazon.java</exclude>
+     <exclude>**/*Senarios_and_Test_Cases.java</exclude>
      </includes>
      </configuration>
       </plugin>
