@@ -38,7 +38,7 @@ To run the automated tests, follow these steps:
     npm run test
     ```
 
-Refer to the [Project report/README.md](./automated-tests/README.md) for detailed instructions.
+Refer to the [Project report/README.md](./README/ProjectReport) for detailed instructions.
 
 ## Manual Testing
 
@@ -54,7 +54,7 @@ I developed a detailed test plan for manual testing of the e-commerce platform. 
 
 ### Test Execution
 
-Manual test cases are documented in the [Test Plan and test ccases and test casesExcel Sheet](./manual-tests/Test_Plan.xlsx). Follow the steps in the sheet to execute the tests.
+Manual test cases are documented in the [Test Plan and test ccases and test casesExcel Sheet](./README.md/manual-tests/Test_Plan.xlsx). Follow the steps in the sheet to execute the tests.
 
 ## Performance Testing
 
@@ -101,7 +101,7 @@ Bug tracking was managed using Jira. Bugs were reported, tracked, and managed th
 
 ### Bug Report
 
-A summary of the reported bugs is available in the [Test cases and test scenarios sheet/Bug_Report.xlsx](./bug-tracking/Bug_Report.xlsx).
+A summary of the reported bugs is available in the [Test cases and test scenarios sheet/Bug_Report.xlsx](README.md/Bug_Report.xlsx).
 
 ## Documentation and Reporting
 
