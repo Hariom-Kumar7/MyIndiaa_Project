@@ -85,7 +85,7 @@ Security assessments were conducted using OWASP ZAP. Common vulnerabilities were
 
 ### Security Report
 
-The detailed security report is available in the [security-tests/Security_Report.pdf](./master/Security_Report.pdf).
+The detailed security report is available in the [security-tests/Security_Report.pdf]([./master/Security_Report.pdf](https://github.com/Hariom-Kumar7/MyIndiaa_Project/blob/master/README.md/Security%20Testing%20ReportSecurity%20Testing%20Report.pdf)).
 
 ## Bug Reporting and Tracking
 
