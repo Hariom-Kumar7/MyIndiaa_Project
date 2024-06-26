@@ -14,7 +14,7 @@ This repository contains the QA assignment completed for MyIndiaa. The goal of t
 
 
 ## Automated Testing
-
+  #Amazon.in
 For automated testing, I developed test scripts using Selenium. The test cases cover critical user flows such as user registration, login, product search, and checkout.
 
 ### Scripts and Tools
