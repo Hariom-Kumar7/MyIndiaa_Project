@@ -85,7 +85,7 @@ Security assessments were conducted using OWASP ZAP. Common vulnerabilities were
 
 ### Security Report
 
-The detailed security report is available in the [security-tests/Security_Report.pdf](./security-tests/Security_Report.pdf).
+The detailed security report is available in the [security-tests/Security_Report.pdf](./master/Security_Report.pdf).
 
 ## Bug Reporting and Tracking
 
