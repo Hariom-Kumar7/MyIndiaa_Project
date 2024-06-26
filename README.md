@@ -73,15 +73,15 @@ To run the performance tests, open the JMeter project file located in the `perfo
 
 ## Security Testing
 
-Security assessments were conducted using OWASP ZAP. Common vulnerabilities were identified and mitigation strategies were described.
+Security assessments were conducted using Burp Suite. Common vulnerabilities were identified and mitigation strategies were described.
 
 ### Tools and Methods
 
-- **Tool Used**: OWASP ZAP
+- **Tool Used**: Burp Suite
 - **Vulnerabilities Assessed**:
-  - SQL Injection
-  - Cross-Site Scripting (XSS)
-  - Cross-Site Request Forgery (CSRF)
+  - Man in the middle attack(MITM)
+  - Brute Force Attack
+  
 
 ### Security Report
 
@@ -114,4 +114,5 @@ Detailed documentation of the testing strategy and processes is provided, along 
 - [Performance Test Plan](./performance-tests)
 - [Security Test Report](./security-tests/Security_Report.pdf)
 - [Bug Report](./bug-tracking/Bug_Report.xlsx)
-
+### Note
+ Everything is available in the "master branch" you need to change the brach main to master for more information.
