@@ -11,7 +11,7 @@ This repository contains the QA assignment completed for MyIndiaa. The goal of t
 - [Security Testing](#security-testing)
 - [Bug Reporting and Tracking](#bug-reporting-and-tracking)
 - [Documentation and Reporting](#documentation-and-reporting)
-- [Submission Guidelines](#submission-guidelines)
+
 
 ## Automated Testing
 
