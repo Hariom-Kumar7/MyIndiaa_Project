@@ -15,7 +15,7 @@ This repository contains the QA assignment completed for MyIndiaa. The goal of t
 
 ## Automated Testing
  
-For automated testing i am using (#amazon.in),and  I developed test scripts using Selenium. The test cases cover critical user flows such as user registration, login, product search, and checkout.
+For automated testing i am working on amazon.in ,and  I developed test scripts using Selenium. The test cases cover critical user flows such as user registration, login, product search, and checkout.
 
 ### Scripts and Tools
 
@@ -42,7 +42,7 @@ Refer to the [Project report/README.md](./README/ProjectReport) for detailed ins
 
 ## Manual Testing
 
-I developed a detailed test plan for manual testing of the e-commerce platform. The test plan includes test cases for various functionalities and steps for executing these tests.
+For manual testing i am working on amzon.in and I developed a detailed test plan for manual testing of the e-commerce platform. The test plan includes test cases for various functionalities and steps for executing these tests.
 
 ### Test Plan
 
